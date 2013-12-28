@@ -10,7 +10,7 @@
 <title>Seyon Financial Service - Welcome</title>
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
 <link rel="stylesheet" type="text/css" href="css/common.css" />
-<link rel="stylesheet" type="text/css" href="css/cssmenu1.css" />
+<link rel="stylesheet" type="text/css" href="css/cssmenu.css" />
 <link rel="stylesheet" type="text/css" href="css/customerinfo.css"/>
 <link rel="stylesheet" type="text/css" href="css/dhtmlxcalendar.css">
 <link rel="stylesheet" type="text/css" href="css/dhtmlxcalendar_dhx_skyblue.css">
